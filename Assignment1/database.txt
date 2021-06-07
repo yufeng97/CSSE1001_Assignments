@@ -1,0 +1,9 @@
+Mary Smith female male medium tall 22
+Juan Lopez male female medium medium 28
+Leslie Liu other other tall short 12
+Tatiana Ivanov female female tall tall 8
+Andre Lero1 male male medium medium 12
+Andre Lero2 male male medium medium 12
+Andre Leroy male male medium short 12
+Sam Augusta other male medium tall 16
+Adalbert Weber male other tall tall 24
