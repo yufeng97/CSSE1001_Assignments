@@ -14,7 +14,7 @@ class Partner:
 
     def __init__(self, first_name, last_name, gender, sexual_pref,
                  height, height_pref, personality_score):
-        "Initialise the partner with their personal details."
+        """Initialise the partner with their personal details."""
         self.first_name = first_name
         self.last_name = last_name
         self.gender = gender
@@ -49,7 +49,7 @@ class Partners:
     """Provides access to partner details from the database."""
 
     def __init__(self):
-        "Read the partner data from the database."
+        """Read the partner data from the database."""
         self.partners = []  # List of partners
         self.partners_read = -1  # Number of partners read from the list
 
